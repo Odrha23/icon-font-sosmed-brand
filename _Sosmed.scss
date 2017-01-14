@@ -1,0 +1,181 @@
+    /*
+    Sosmed icon font: Sosmed
+    Creation date: 22/06/2016 15:44
+    */
+
+    @font-face {
+  font-family: "Sosmed";
+  src: url("./Sosmed.eot");
+  src: url("./Sosmed.eot?#iefix") format("embedded-opentype"),
+       url("./Sosmed.woff") format("woff"),
+       url("./Sosmed.ttf") format("truetype"),
+       url("./Sosmed.svg#Sosmed") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Sosmed";
+    src: url("./Sosmed.svg#Sosmed") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Sosmed";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .Sosmed-aim:before { content: "\f100"; }
+.Sosmed-airbnb:before { content: "\f101"; }
+.Sosmed-android:before { content: "\f102"; }
+.Sosmed-apple:before { content: "\f103"; }
+.Sosmed-appneta:before { content: "\f104"; }
+.Sosmed-asana:before { content: "\f105"; }
+.Sosmed-behance:before { content: "\f106"; }
+.Sosmed-bing:before { content: "\f107"; }
+.Sosmed-bitbucket:before { content: "\f108"; }
+.Sosmed-blogger:before { content: "\f109"; }
+.Sosmed-chime:before { content: "\f10a"; }
+.Sosmed-coderwall:before { content: "\f10b"; }
+.Sosmed-delicious:before { content: "\f10c"; }
+.Sosmed-disqus:before { content: "\f10d"; }
+.Sosmed-dribbble:before { content: "\f10e"; }
+.Sosmed-drive:before { content: "\f10f"; }
+.Sosmed-dropbox:before { content: "\f110"; }
+.Sosmed-ello:before { content: "\f111"; }
+.Sosmed-envato:before { content: "\f112"; }
+.Sosmed-facebook:before { content: "\f113"; }
+.Sosmed-feedburner:before { content: "\f114"; }
+.Sosmed-finder:before { content: "\f115"; }
+.Sosmed-flickr:before { content: "\f116"; }
+.Sosmed-forrst:before { content: "\f117"; }
+.Sosmed-foursquare:before { content: "\f118"; }
+.Sosmed-github:before { content: "\f119"; }
+.Sosmed-google-plus:before { content: "\f11a"; }
+.Sosmed-grooveshark:before { content: "\f11b"; }
+.Sosmed-houzz:before { content: "\f11c"; }
+.Sosmed-ibooks:before { content: "\f11d"; }
+.Sosmed-icloud:before { content: "\f11e"; }
+.Sosmed-instagram:before { content: "\f11f"; }
+.Sosmed-linkedin:before { content: "\f120"; }
+.Sosmed-lynard:before { content: "\f121"; }
+.Sosmed-mailbox:before { content: "\f122"; }
+.Sosmed-marketo:before { content: "\f123"; }
+.Sosmed-microsoft:before { content: "\f124"; }
+.Sosmed-mixpanel:before { content: "\f125"; }
+.Sosmed-music:before { content: "\f126"; }
+.Sosmed-office:before { content: "\f127"; }
+.Sosmed-paypal:before { content: "\f128"; }
+.Sosmed-peek:before { content: "\f129"; }
+.Sosmed-pinterest:before { content: "\f12a"; }
+.Sosmed-playstore:before { content: "\f12b"; }
+.Sosmed-quora:before { content: "\f12c"; }
+.Sosmed-sharethis:before { content: "\f12d"; }
+.Sosmed-shazam:before { content: "\f12e"; }
+.Sosmed-sketch:before { content: "\f12f"; }
+.Sosmed-skype:before { content: "\f130"; }
+.Sosmed-smug:before { content: "\f131"; }
+.Sosmed-soundcloud:before { content: "\f132"; }
+.Sosmed-spotify:before { content: "\f133"; }
+.Sosmed-steam:before { content: "\f134"; }
+.Sosmed-swarm:before { content: "\f135"; }
+.Sosmed-swift:before { content: "\f136"; }
+.Sosmed-testflight:before { content: "\f137"; }
+.Sosmed-tumblr:before { content: "\f138"; }
+.Sosmed-twitch:before { content: "\f139"; }
+.Sosmed-twitter:before { content: "\f13a"; }
+.Sosmed-uber:before { content: "\f13b"; }
+.Sosmed-ui8:before { content: "\f13c"; }
+.Sosmed-utorrent:before { content: "\f13d"; }
+.Sosmed-viber:before { content: "\f13e"; }
+.Sosmed-vimeo:before { content: "\f13f"; }
+.Sosmed-whatsapp:before { content: "\f140"; }
+.Sosmed-windows:before { content: "\f141"; }
+.Sosmed-wunderlist:before { content: "\f142"; }
+.Sosmed-xing:before { content: "\f143"; }
+.Sosmed-yelp:before { content: "\f144"; }
+.Sosmed-youtube:before { content: "\f145"; }
+.Sosmed-zen:before { content: "\f146"; }
+    
+    $font-Sosmed-aim: "\f100";
+    $font-Sosmed-airbnb: "\f101";
+    $font-Sosmed-android: "\f102";
+    $font-Sosmed-apple: "\f103";
+    $font-Sosmed-appneta: "\f104";
+    $font-Sosmed-asana: "\f105";
+    $font-Sosmed-behance: "\f106";
+    $font-Sosmed-bing: "\f107";
+    $font-Sosmed-bitbucket: "\f108";
+    $font-Sosmed-blogger: "\f109";
+    $font-Sosmed-chime: "\f10a";
+    $font-Sosmed-coderwall: "\f10b";
+    $font-Sosmed-delicious: "\f10c";
+    $font-Sosmed-disqus: "\f10d";
+    $font-Sosmed-dribbble: "\f10e";
+    $font-Sosmed-drive: "\f10f";
+    $font-Sosmed-dropbox: "\f110";
+    $font-Sosmed-ello: "\f111";
+    $font-Sosmed-envato: "\f112";
+    $font-Sosmed-facebook: "\f113";
+    $font-Sosmed-feedburner: "\f114";
+    $font-Sosmed-finder: "\f115";
+    $font-Sosmed-flickr: "\f116";
+    $font-Sosmed-forrst: "\f117";
+    $font-Sosmed-foursquare: "\f118";
+    $font-Sosmed-github: "\f119";
+    $font-Sosmed-google-plus: "\f11a";
+    $font-Sosmed-grooveshark: "\f11b";
+    $font-Sosmed-houzz: "\f11c";
+    $font-Sosmed-ibooks: "\f11d";
+    $font-Sosmed-icloud: "\f11e";
+    $font-Sosmed-instagram: "\f11f";
+    $font-Sosmed-linkedin: "\f120";
+    $font-Sosmed-lynard: "\f121";
+    $font-Sosmed-mailbox: "\f122";
+    $font-Sosmed-marketo: "\f123";
+    $font-Sosmed-microsoft: "\f124";
+    $font-Sosmed-mixpanel: "\f125";
+    $font-Sosmed-music: "\f126";
+    $font-Sosmed-office: "\f127";
+    $font-Sosmed-paypal: "\f128";
+    $font-Sosmed-peek: "\f129";
+    $font-Sosmed-pinterest: "\f12a";
+    $font-Sosmed-playstore: "\f12b";
+    $font-Sosmed-quora: "\f12c";
+    $font-Sosmed-sharethis: "\f12d";
+    $font-Sosmed-shazam: "\f12e";
+    $font-Sosmed-sketch: "\f12f";
+    $font-Sosmed-skype: "\f130";
+    $font-Sosmed-smug: "\f131";
+    $font-Sosmed-soundcloud: "\f132";
+    $font-Sosmed-spotify: "\f133";
+    $font-Sosmed-steam: "\f134";
+    $font-Sosmed-swarm: "\f135";
+    $font-Sosmed-swift: "\f136";
+    $font-Sosmed-testflight: "\f137";
+    $font-Sosmed-tumblr: "\f138";
+    $font-Sosmed-twitch: "\f139";
+    $font-Sosmed-twitter: "\f13a";
+    $font-Sosmed-uber: "\f13b";
+    $font-Sosmed-ui8: "\f13c";
+    $font-Sosmed-utorrent: "\f13d";
+    $font-Sosmed-viber: "\f13e";
+    $font-Sosmed-vimeo: "\f13f";
+    $font-Sosmed-whatsapp: "\f140";
+    $font-Sosmed-windows: "\f141";
+    $font-Sosmed-wunderlist: "\f142";
+    $font-Sosmed-xing: "\f143";
+    $font-Sosmed-yelp: "\f144";
+    $font-Sosmed-youtube: "\f145";
+    $font-Sosmed-zen: "\f146";
